@@ -15,8 +15,8 @@ const AboutUs = () => {
             <Image src={bagus} alt="Bagus Budi Satoto" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Bagus</h1>
-                <p className="text-sm text-center text-zinc-500">Coding</p>
+                <h1 className="text-sm font-semibold text-center">Bagus Satoto</h1>
+                <p className="text-sm text-center text-zinc-400">Coding</p>
               </div>
             </div>
           </div>
