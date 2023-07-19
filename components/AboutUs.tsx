@@ -1,10 +1,7 @@
-import taufik from '@/assets/taufik.png';
-import RapoL from '@/assets/RapoL.png';
-import Alfa from '@/assets/Alfa.png';
-import Irvan from '@/assets/Irvan.png';
-import Naufal from '@/assets/Naufal.png';
-import Aryawijaya from '@/assets/aryawijaya.png';
-import Okta from '@/assets/okta.png';
+import bagus from '@/assets/img/1.png';
+import Aldy from '@/assets/img/2.png';
+import kholan from '@/assets/img/4.png';
+import fadhil from '@/assets/img/5.png';
 import Image from 'next/image';
 
 const AboutUs = () => {
@@ -15,66 +12,38 @@ const AboutUs = () => {
       <div className="flex justify-center my-12">
         <div className="flex flex-wrap items-center justify-center gap-4 lg:w-4/5 lg:gap-12">
           <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={taufik} alt="Muhammad Taufik Hidayat" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
+            <Image src={bagus} alt="Bagus Budi Satoto" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Muhammad Taufik Hidayat</h1>
-                <p className="text-sm text-center text-zinc-400">Fullstack</p>
+                <h1 className="text-sm font-semibold text-center">Bagus Budi Satoto</h1>
+                <p className="text-sm text-center text-zinc-400">Web Developer</p>
               </div>
             </div>
           </div>
           <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={Irvan} alt="Muhammad Irvan Shandika" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
+            <Image src={Aldy} alt="Aldyansyah" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Muhammad Irvan Shandika</h1>
-                <p className="text-sm text-center text-zinc-400">Frontend</p>
+                <h1 className="text-sm font-semibold text-center">Aldyansyah</h1>
+                <p className="text-sm text-center text-zinc-400">UI/UX Design</p>
               </div>
             </div>
           </div>
           <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={Alfa} alt="Alfa Zidan Prasetyo" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
+            <Image src={kholan} alt="Kholan Susuri" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Alfa Zidan Prastyo</h1>
-                <p className="pb-2 text-sm text-center text-zinc-400">UI/UX Designer</p>
+                <h1 className="text-sm font-semibold text-center">Kholan Susuri</h1>
+                <p className="pb-2 text-sm text-center text-zinc-400">Teaster Developer</p>
               </div>
             </div>
           </div>
-
           <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={Naufal} alt="Naufal Richo Giffari Saputra" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
+            <Image src={fadhil} alt="Faadhil Arsyad" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Naufal Richo Giffari Saputra</h1>
-                <p className="pb-2 text-sm text-center text-zinc-400">UI/UX Designer</p>
-              </div>
-            </div>
-          </div>
-          <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={RapoL} alt="Raffa Nur Listiawan D E S" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
-            <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
-              <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Raffa Nur Listiawan D E S</h1>
-                <p className="text-sm text-center text-zinc-400">QA Tester</p>
-              </div>
-            </div>
-          </div>
-          <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={Aryawijaya} alt="Aryawijaya" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
-            <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
-              <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Aryawijaya</h1>
-                <p className="text-sm text-center text-zinc-400">QA Tester</p>
-              </div>
-            </div>
-          </div>
-          <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
-            <Image src={Okta} alt="Aryawijara" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
-            <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
-              <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Fachrudin Okta Rahmawan</h1>
-                <p className="text-sm text-center text-zinc-400">QA Tester</p>
+                <h1 className="text-sm font-semibold text-center">Faadhil Arsyad</h1>
+                <p className="pb-2 text-sm text-center text-zinc-400">Manager</p>
               </div>
             </div>
           </div>
