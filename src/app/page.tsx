@@ -8,7 +8,7 @@ import AboutUs from '@/components/AboutUs';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Voting Apps: Sistem Terpercaya untuk Pemilihan yang Adil dan Transparan',
+  title: 'Voting Apps: Sistem Terpercaya',
   description: 'Selamat datang di Voting Apps - sistem  terpercaya untuk pemilihan yang adil dan transparan. Gunakan Voting untuk memilih secara online dan pastikan suara Anda dihitung dengan akurat dan aman.',
   keywords: ['pemilihan', 'suara', 'transparan', 'akurat', 'aman', 'terpercaya'],
   authors: [{ name: 'Bgaus Budi Satoto' }],
