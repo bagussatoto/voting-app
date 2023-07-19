@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 
 export function generateMetadata({ params }: { params: { code: string } }): Metadata {
   return {
-    title: `${params.code} | Votely`,
+    title: `${params.code} | votingapps`,
   };
 }
 

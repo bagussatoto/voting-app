@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="container flex items-center justify-between py-4 ">
       <Link href="/" className="text-[#4A1B9D] font-bold text-xl">
-        Votely
+        Voting Apps
       </Link>
       <div className="flex items-center lg:gap-4">
         {session?.user && <p className=" text-[#3C3C3C] text-sm  lg:text-base ml-10">Welcome, {session?.user.name}</p>}

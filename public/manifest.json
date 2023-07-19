@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Votely",
-  "short_name": "Votely",
-  "description": "Votely - sistem e-voting terpercaya untuk pemilihan yang adil dan transparan. Gunakan Votely untuk memilih secara online dan suara dihitung dengan akurat dan aman.",
+  "name": "votingapp",
+  "short_name": "votingapp",
+  "description": "voting - sistem terpercaya untuk pemilihan yang adil dan transparan. Gunakan voting untuk memilih secara online dan suara dihitung dengan akurat dan aman.",
   "icons": [
     {
       "src": "/icon-192x192.png",

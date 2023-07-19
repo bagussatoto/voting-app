@@ -8,10 +8,10 @@ import AboutUs from '@/components/AboutUs';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Votely: Sistem E-Voting Terpercaya untuk Pemilihan yang Adil dan Transparan',
-  description: 'Selamat datang di Votely - sistem e-voting terpercaya untuk pemilihan yang adil dan transparan. Gunakan Votely untuk memilih secara online dan pastikan suara Anda dihitung dengan akurat dan aman.',
-  keywords: ['votely', 'e-voting', 'pemilihan', 'suara', 'transparan', 'akurat', 'aman', 'terpercaya'],
-  authors: [{ name: 'Votely Team' }],
+  title: 'Voting Apps: Sistem Terpercaya untuk Pemilihan yang Adil dan Transparan',
+  description: 'Selamat datang di Voting Apps - sistem  terpercaya untuk pemilihan yang adil dan transparan. Gunakan Voting untuk memilih secara online dan pastikan suara Anda dihitung dengan akurat dan aman.',
+  keywords: ['pemilihan', 'suara', 'transparan', 'akurat', 'aman', 'terpercaya'],
+  authors: [{ name: 'Bgaus Budi Satoto' }],
   robots: 'index, follow',
   themeColor: { color: '#FFF' },
   manifest: '/manifest.json',
@@ -30,7 +30,7 @@ export default function Home() {
           <h1 className="text-3xl font-semibold lg:text-5xl">
             Ayo Bebaskan Suaramu <br /> Untuk <span className="border-b-2 border-[#4A1B9D]">Memilih!</span>
           </h1>
-          <p className="py-4 text-base">Votely dapat menghemat waktu dan tenaga dalam proses pemilihan, karena proses pengumpulan suara dan penghitungan hasil dilakukan secara otomatis.</p>
+          <p className="py-4 text-base">Voting Apps dapat menghemat waktu dan tenaga dalam proses pemilihan, karena proses pengumpulan suara dan penghitungan hasil dilakukan secara otomatis.</p>
         </div>
       </main>
       <div className="container flex items-center justify-center gap-4 lg:gap-8">

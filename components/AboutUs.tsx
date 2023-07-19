@@ -11,7 +11,7 @@ const AboutUs = () => {
   return (
     <div className="container my-10 ">
       <h1 className="text-[#4A1B9D] text-center text-3xl font-bold">Tentang Kami</h1>
-      <p className="text-center text-[#3C3C3C] my-2">Ayo berkenalan dengan orang-orang keren dari pengembang aplikasi Votely</p>
+      <p className="text-center text-[#3C3C3C] my-2">Ayo berkenalan dengan orang-orang keren dari pengembang aplikasi Voting Apps</p>
       <div className="flex justify-center my-12">
         <div className="flex flex-wrap items-center justify-center gap-4 lg:w-4/5 lg:gap-12">
           <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
