@@ -16,7 +16,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Bagus</h1>
-                <p className="text-sm text-center text-zinc-400">Coding</p>
+                <p className="text-sm text-center text-zinc-500">Coding</p>
               </div>
             </div>
           </div>
