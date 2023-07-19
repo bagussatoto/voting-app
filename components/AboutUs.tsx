@@ -10,8 +10,8 @@ const AboutUs = () => {
       <h1 className="text-[#4A1B9D] text-center text-3xl font-bold">Tentang Kami</h1>
       <p className="text-center text-[#3C3C3C] my-2">Ayo berkenalan dengan orang-orang keren dari pengembang aplikasi Voting Apps</p>
       <div className="flex justify-center my-12">
-        <div className="flex flex-wrap items-center justify-center gap-4 lg:w-4/5 lg:gap-12">
-          <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
+      <div className="group relative max-w-[150px] max-h-[150px] overflow-x-hidden overflow-y-hidden rounded-full ">
+            <Image src={Aldy} alt="Aldyansyah" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <Image src={bagus} alt="Bagus Budi Satoto" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
@@ -43,7 +43,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Faadhil</h1>
-                <p className="text-sm text-center text-zinc-400">koor</p>
+                <p className="text-sm text-center text-zinc-400">kordinator</p>
               </div>
             </div>
           </div>
