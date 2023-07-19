@@ -16,7 +16,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Bagus Budi Satoto</h1>
-                <p className="text-sm text-center text-zinc-400">Web Developer</p>
+   
               </div>
             </div>
           </div>
@@ -25,7 +25,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Aldyansyah</h1>
-                <p className="text-sm text-center text-zinc-400">UI/UX Design</p>
+                
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Kholan Susuri</h1>
-                <p className="pb-2 text-sm text-center text-zinc-400">Teaster Developer</p>
+               
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@ const AboutUs = () => {
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
                 <h1 className="text-sm font-semibold text-center">Faadhil Arsyad</h1>
-                <p className="pb-2 text-sm text-center text-zinc-400">Manager</p>
+                
               </div>
             </div>
           </div>
