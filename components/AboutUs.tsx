@@ -15,9 +15,8 @@ const AboutUs = () => {
             <Image src={bagus} alt="Bagus Budi Satoto" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 text-white transition duration-150 ease-in scale-0 group-hover:scale-100 ">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Bagus Budi Satoto</h1>
-                <p className="text-sm text-center text-zinc-400"></p>
-                <p className="text-sm text-center text-zinc-400"></p>
+                <h1 className="text-sm font-semibold text-center">Bagus</h1>
+                <p className="text-sm text-center text-zinc-400">Coding</p>
               </div>
             </div>
           </div>
@@ -25,9 +24,8 @@ const AboutUs = () => {
             <Image src={Aldy} alt="Aldyansyah" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Aldyansyah</h1>
-                <p className="text-sm text-center text-zinc-400"></p>
-                <p className="text-sm text-center text-zinc-400"></p>
+                <h1 className="text-sm font-semibold text-center">Aldy</h1>
+                <p className="text-sm text-center text-zinc-400">Design</p>
               </div>
             </div>
           </div>
@@ -35,9 +33,8 @@ const AboutUs = () => {
             <Image src={kholan} alt="Kholan Susuri" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Kholan Susuri</h1>
-                <p className="text-sm text-center text-zinc-400"></p>
-                <p className="text-sm text-center text-zinc-400"></p>
+                <h1 className="text-sm font-semibold text-center">Kholan</h1>
+                <p className="text-sm text-center text-zinc-400">Tester</p>
               </div>
             </div>
           </div>
@@ -45,9 +42,8 @@ const AboutUs = () => {
             <Image src={fadhil} alt="Faadhil Arsyad" className="w-full h-full bg-[#4A1B9D] mx-auto transition duration-150 group-hover:opacity-60" />
             <div className="absolute bottom-0 w-full text-white transition duration-150 ease-in scale-0 group-hover:scale-100">
               <div className="p-2 bg-[#3C3C3C] ">
-                <h1 className="text-sm font-semibold text-center">Faadhil Arsyad</h1>
-                <p className="text-sm text-center text-zinc-400"></p>
-                <p className="text-sm text-center text-zinc-400"></p>
+                <h1 className="text-sm font-semibold text-center">Faadhil</h1>
+                <p className="text-sm text-center text-zinc-400">koor</p>
               </div>
             </div>
           </div>
