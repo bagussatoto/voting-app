@@ -6,7 +6,7 @@ export const metadata: Metadata = {
 };
 
 const Page = () => {
-  return <MainPage title="Continue with Google" />;
+  return <MainPage title="google" />;
 };
 
 export default Page;
