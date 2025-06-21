@@ -19,7 +19,7 @@
     "eslint": "9.28.0",
     "eslint-config-next": "15.1.7",
     "moment": "^2.29.4",
-    "next": "15.1.7",
+    "next": "15.2.3",
     "next-auth": "^4.21.1",
     "prisma": "^6.0.0",
     "react": "19.0.0",
